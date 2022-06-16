@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luoob
-- 👀 I’m interested in codeing & singing
+- 👀 I’m interested in codeing & uping
 - 🌱 I’m currently learning advanced of javascript
 - 📫 How to reach me liutzui@163.com
 
