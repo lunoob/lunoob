@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @luoob
-- 👀 I’m still single dog, i need your help
+- 👋 Hi, I’m @Luoob
+- 👀 I’m still single dog, and i need your help
 - 🌱 I’m currently learning advanced of javascript
-- 📫 How to reach me liutzui@163.com
+- 📫 How to reach me luoob@qq.com
 
 <!---
 lunoob/luoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
